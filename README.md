@@ -4,8 +4,6 @@ A Clojure wrapper for [Guild Wars 2 API](http://wiki.guildwars2.com/wiki/API).
 
 ## Usage
 
-Guild Wars 2 API
-
 | Guild Wars 2 API | clj-gw2 |
 |------------------|---------|
 |/items| (items)|
