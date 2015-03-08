@@ -62,6 +62,7 @@
 (def continents (api-fn "continents"))
 
 ;; floors are disabled in v2
+;; Edit:2015-03-08 it looks it is enabled now
 (def floors (api-fn "floors"))
 
 (def maps (api-fn "maps"))
